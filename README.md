@@ -2,10 +2,10 @@
   <img width="560" src="https://github.com/user-attachments/assets/8413d0c9-550a-41a4-a12e-d0a5e517b2d9"/>
 </p>
 
-<h1 align="center">Hi, I'm Chanha Lee 👋</h1>
+<h1 align="center">Hi, I'm Haru !👋</h1>
 
 <p align="center">
-  <b>Backend Developer</b>
+  <b>I'm Newbie Backend Developer :) </b>
 </p>
 
 <p align="center">
