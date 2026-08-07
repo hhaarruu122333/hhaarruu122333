@@ -8,8 +8,6 @@
 
 ### Backend Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Java+%7C+Go+%7C+Node.js;Build+Something+Useful." />
-
 <br>
 
 ###  Tech Stack
@@ -22,9 +20,15 @@
 
 ###  GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hhaarruu122333&show_icons=true&theme=github_dark&hide_border=true"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=hhaarruu122333&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"
+  height="165"
+/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhaarruu122333&layout=compact&theme=github_dark&hide_border=true"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhaarruu122333&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"
+  height="165"
+/>
 
 <br>
 
