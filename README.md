@@ -39,10 +39,10 @@ Backend Developer
 
 <p align="center">
 
-<img width="390"
-src="https://github-readme-stats.vercel.app/api?username=hhaarruu122333&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="380"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hhaarruu122333&theme=github_dark"/>
 
-<img width="390"
+<img width="380"
 src="https://streak-stats.demolab.com?user=hhaarruu122333&theme=github-dark&hide_border=true"/>
 
 </p>
@@ -53,9 +53,8 @@ src="https://streak-stats.demolab.com?user=hhaarruu122333&theme=github-dark&hide
 
 <p align="center">
 
-<img
-src="https://ghchart.rshah.org/409ba5/hhaarruu122333"
-width="900"/>
+<img width="900"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hhaarruu122333&theme=github_dark"/>
 
 </p>
 
